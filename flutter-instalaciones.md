@@ -23,6 +23,10 @@ git config --global user.email "Tu correo"
 
 4. [Postman](https://www.postman.com/downloads/)
 
+5. [Android Studio](https://developer.android.com/studio)
+
+6. Sólo Mac [xCode](https://apps.apple.com/ca/app/xcode/id497799835?mt=12)
+
 
 ## Extensiones de VSCode
 
