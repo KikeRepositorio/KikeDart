@@ -27,6 +27,8 @@ git config --global user.email "Tu correo"
 
 6. Sólo Mac [xCode](https://apps.apple.com/ca/app/xcode/id497799835?mt=12)
 
+7. [Flutter SDK](https://docs.flutter.dev/get-started/install)
+
 
 ## Extensiones de VSCode
 
