@@ -29,6 +29,8 @@ git config --global user.email "Tu correo"
 
 7. [Flutter SDK](https://docs.flutter.dev/get-started/install)
 
+8. [NodeJS](https://nodejs.org/en/)
+
 
 ## Extensiones de VSCode
 
