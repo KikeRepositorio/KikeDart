@@ -31,6 +31,8 @@ git config --global user.email "Tu correo"
 
 8. [NodeJS](https://nodejs.org/en/)
 
+9. [Docker Desktop](https://www.docker.com/)
+
 
 ## Extensiones de VSCode
 
