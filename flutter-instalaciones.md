@@ -33,6 +33,8 @@ git config --global user.email "Tu correo"
 
 9. [Docker Desktop](https://www.docker.com/)
 
+10. [Table Plus](https://tableplus.com/) <-- Visor de base de datos
+
 
 ## Extensiones de VSCode
 
